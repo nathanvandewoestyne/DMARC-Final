@@ -5,3 +5,4 @@ For this project we worked with DMARC to give them valuable insights into their 
 <h4>Data</h4>
 <h4>Methods</h4>
 <h4>Results</h4>
+We esimate there are around 32,000-42,000 people in the Des Moines metro area are at risk of needing assistance from a food pantry. Of the people not currently receiving food pantry assistance, we predict that the zip code with the most people needing assistance was in West Des Moines, zip code 50266. We found this surprising because this zip code has the Jordan Creek Mall area, but got some validation by firsthand accounts by a DMARC board member
