@@ -4,6 +4,7 @@ by: Anthony Esboldt, Tyler Nansel, Riley Schultz, Nathan VanDeWoestyne
 For this project we worked with DMARC to give them valuable insights into their future operations. We aimed to predict the upper bound of food pantry visitors in the Des Moines metro area and what zip codes the additional visitors will be coming from.
 <h4>Data</h4>
 PantryData.R = Exploratory data for us to find our research questions<br><br>
+ACSCleaning.R = Cleaning ACS data<br><br>
 Clustering_Final.R = Our clustering model to find demographic information of the most common food pantry visitors.<br>
 <br>
 DMARC_Chloropleth_Maps.R = R file with the required libraries to make chloropleth maps for food pantry current visitors, total predicted visitors, and where additional visitors will be from.
