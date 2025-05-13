@@ -5,8 +5,10 @@ For this project we worked with DMARC to give them valuable insights into their 
 <h4>Data</h4>
 PantryData.R = Exploratory data for us to find our research questions<br><br>
 ACS_Clean.R = Cleaning ACS data<br><br>
+DSMZip.R = Cleaning ACS by zip code<br><br>
 Clustering_Final.R = Our clustering model to find demographic information of the most common food pantry visitors.<br>
 <br>
+Modeling.R = Predictions for upper bound of food pantry visitors<br><br>
 DMARC_Chloropleth_Maps.R = R file with the required libraries to make chloropleth maps for food pantry current visitors, total predicted visitors, and where additional visitors will be from.
 <h4>Methods</h4>
 We performed k-means clustering in order to find demographic information of the most common food pantry visitors. To predict the upper bound of visitors, we used a GLM model with a poisson distribution and a log link. After predicting the upper bound of visitors, we used a logistic growth function to predict estimated growth every year until we reached the upper bound of visitors in 2060.
